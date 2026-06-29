@@ -56,17 +56,5 @@ End-to-end UI/UX design in Figma, translated into a responsive React.js resume-b
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushhmsr&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhmsr&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhmsr&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
-
----
 
 <p align="center"><i>Let's connect and build something impactful 🚀</i></p>
